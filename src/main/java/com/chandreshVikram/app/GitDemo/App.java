@@ -12,6 +12,12 @@ public class App {
 	public Void addedMethod()
 	{
 		System.out.println(" new method added  to git chandresh vikram ");
+	}
+	public Void addedMethodAnother()
+	{
+		System.out.println(" new second method added  to git chandresh vikram ");
+	}
+
 
 	public static void main(String[] args) {
 		System.out.println("Hello World!");
