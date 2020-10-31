@@ -8,6 +8,10 @@ public class App {
 			System.out.println(" welcome to git chandresh vikram ");
 		}
 	}
+	
+	public Void addedMethod()
+	{
+		System.out.println(" new method added  to git chandresh vikram ");
 
 	public static void main(String[] args) {
 		System.out.println("Hello World!");
